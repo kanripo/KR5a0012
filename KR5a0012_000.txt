@@ -1,7 +1,8 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:34:56.538230
+# -*- mode: mandoku-view -*-
 #+TITLE: 高上玉皇本行經髓
-#+PROPERTY: DZID  DZ0012
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，1—745 一卷 洞真部本文類
+#+DATE: 2015-08-28 23:34:57
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+<md:KR5a0012_HFL_001-001a>¶<pb:KR5a0012_SJB_001-010745b>
+
